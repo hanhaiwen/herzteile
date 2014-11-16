@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Herzteile Theme\n"
+"POT-Creation-Date: 2013-06-04 13:12-0800\n"
+"PO-Revision-Date: 2014-11-16 17:11+0100\n"
+"Last-Translator: Authentic <support@authenticthemes.com>\n"
+"Language-Team: Herzteile\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "404: Page Not Found"
+msgstr "Fehler 404: Seite nicht gefunden"
+
+#: ../404.php:20
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+"Leider konnte die Seite, die du besuchen wolltest, nicht aufgerufen werden. "
+"Bitte besuche"
+
+#: ../404.php:20
+msgid "homepage"
+msgstr ""
+
+#: ../author-bio.php:18
+msgid "Article Written By "
+msgstr "Artikel geschrieben von"
+
+#: ../author.php:16
+msgid "Articles Written By"
+msgstr "Artikel geschrieben von"
+
+#: ../comments.php:42
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: ../comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: ../comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Neue Kommentare &rarr;"
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschlossen."
+
+#: ../comments.php:54
+msgid "Leave a Reply"
+msgstr "Schreib' eine Antwort"
+
+#: ../footer.php:40
+msgid "Apollo"
+msgstr "Apollo"
+
+#: ../footer.php:40
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:40
+msgid "Theme Designed &amp; Developed by"
+msgstr "Theme gestaltet und entwickelt von"
+
+#: ../options.php:29
+msgid "General"
+msgstr ""
+
+#: ../options.php:33
+msgid "Custom Logo"
+msgstr "Selbstgestaltetes Logo"
+
+#: ../options.php:34
+msgid "Upload your custom logo."
+msgstr "Lade dein selbstgestaltetes Logo hoch"
+
+#: ../options.php:40
+msgid "Toggle: Site Description"
+msgstr ""
+
+#: ../options.php:41
+msgid "Check this box to show the site description under the logo area."
+msgstr ""
+"Diese Box anklicken, um die Seitenbeschreibung unter dem Logo anzeigen zu "
+"lassen."
+
+#: ../options.php:47
+msgid "Header Ad"
+msgstr ""
+
+#: ../options.php:48
+msgid "Use this field to add a banner to your header."
+msgstr "Nutze dieses Feld, um ein Banner im Header anzuzeigen."
+
+#: ../options.php:54
+msgid "Toggle: Featured Images on Single Blog Posts"
+msgstr ""
+
+#: ../options.php:55
+msgid "Check this box to enable featured images on single blog posts."
+msgstr ""
+
+#: ../options.php:61
+msgid "Custom Copyright"
+msgstr ""
+
+#: ../options.php:62
+msgid "Enter your custom copyright info here"
+msgstr ""
+
+#: ../options.php:69
+msgid "Social"
+msgstr ""
+
+#: ../options.php:73
+msgid "Social?"
+msgstr ""
+
+#: ../options.php:74
+msgid "Check box to enable the social in the theme header."
+msgstr ""
+
+#: ../options.php:84
+msgid "Enter your "
+msgstr ""
+
+#: ../options.php:84
+msgid " url"
+msgstr ""
+
+#: ../options.php:84
+msgid "Include http:// at the front of the url."
+msgstr "Ergänze das http:// zu Beginn der URL"
+
+#: ../search.php:16
+msgid "Search Results For"
+msgstr "Suchergebnisse für"
+
+#: ../search.php:30
+msgid ""
+"Unfortunately your search turned up no results please try another search "
+"term."
+msgstr ""
+"Leider ergab diese Suche keine Ergebnisse. Bitte versuche einen anderen "
+"Suchbegriff."
+
+#: ../single.php:34
+msgid "0 Comments"
+msgstr "Keine Kommentare"
+
+#: ../single.php:34
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../single.php:34
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../single.php:53
+msgid "Previous Article"
+msgstr "Vorheriger Artikel"
+
+#: ../single.php:54
+msgid "Next Article"
+msgstr "Nächster Artikel"
+
+#: ../admin/options-framework.php:173 ../admin/options-framework.php:388
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: ../admin/options-framework.php:204
+msgid "Clear"
+msgstr "Löschen"
+
+#: ../admin/options-framework.php:205
+msgid "Default"
+msgstr "Standard"
+
+#: ../admin/options-framework.php:206
+msgid "Select Color"
+msgstr "Wähle eine Farbe"
+
+#: ../admin/options-framework.php:252
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Klicke OK zum Zurücksetzen. Alle Änderungen am Theme werden verworfen!"
+
+#: ../admin/options-framework.php:284
+msgid "Default options restored."
+msgstr "Standardoptionen wieder hergestellt."
+
+#: ../admin/options-framework.php:338
+msgid "Options saved."
+msgstr "Optionen gespeichert."
+
+#: ../admin/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "Keine Datei ausgewählt"
+
+#: ../admin/options-media-uploader.php:54
+#: ../admin/options-media-uploader.php:111
+msgid "Upload"
+msgstr "Hochladen"
+
+#: ../admin/options-media-uploader.php:56
+#: ../admin/options-media-uploader.php:112
+msgid "Remove"
+msgstr "Entfernen"
+
+#: ../admin/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Aktualisiere deine Version von WordPress für volle Medienunterstützung."
+
+#: ../admin/options-media-uploader.php:83
+msgid "View File"
+msgstr "Datei anzeigen"
+
+#: ../admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "Keine Wiederholung"
+
+#: ../admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "Horizontal wiederholen"
+
+#: ../admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "Vertikal wiederholen"
+
+#: ../admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "Alles wiederholen"
+
+#: ../admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr "Oben links"
+
+#: ../admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr "Oben mittig"
+
+#: ../admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: ../admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "Mitte links"
+
+#: ../admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "Zentriert"
+
+#: ../admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "Mitte rechts"
+
+#: ../admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: ../admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "Unten zentriert"
+
+#: ../admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: ../admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "Normal scrollen"
+
+#: ../admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../admin/options-sanitize.php:344
+msgid "Normal"
+msgstr "Normal"
+
+#: ../admin/options-sanitize.php:345
+msgid "Italic"
+msgstr "Kursiv"
+
+#: ../admin/options-sanitize.php:346
+msgid "Bold"
+msgstr "Gefettet"
+
+#: ../admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr "Kursiv gefettet"
+
+#: ../functions/comments-callback.php:28
+msgid "Pingback:"
+msgstr "Trackback:"
+
+#: ../functions/comments-callback.php:28 ../functions/comments-callback.php:53
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../functions/comments-callback.php:59
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar ist in der Moderationsschleife."
+
+#: ../functions/comments-callback.php:67
+msgid "reply to comment"
+msgstr "Antworte auf den Kommentar"
+
+#: ../functions/pagination.php:60
+msgid "Newer Posts"
+msgstr "Neue Beiträge"
+
+#: ../functions/pagination.php:62
+msgid "Older Posts"
+msgstr "Ältere Beiträge"
+
+#: ../functions/scripts.php:51
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../functions/theme-setup.php:17
+msgid "Top Navigation"
+msgstr "Obere Navigation"
+
+#: ../functions/theme-setup.php:18
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: ../functions/theme-setup.php:19
+msgid "Footer Navigation"
+msgstr "Footernavigation"
+
+#: ../functions/meta/meta-slides.php:16
+msgid "Post Options"
+msgstr ""
+
+#: ../functions/meta/meta-slides.php:22
+msgid "Video URL"
+msgstr "Video URL"
+
+#: ../functions/meta/meta-slides.php:23
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+"Gib eine Video-URL ein, die mit WordPress' eingebauten oEmbed-Feature "
+"kompatibel ist."
+
+#: ../functions/meta/meta-slides.php:23
+msgid "Learn More"
+msgstr "Erfahre mehr"
+
+#: ../functions/meta/meta-slides.php:29
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../functions/meta/meta-slides.php:30
+msgid "Enter a URL to link this slide to. Example: http://authenticthemes.com"
+msgstr ""
+"Gib eine URL ein, auf die diese Folie verlinken soll. Zum Beispiel: http://"
+"authenticthemes.com"
+
+#: ../functions/meta/meta-slides.php:36
+msgid "Link Target"
+msgstr "Ziellink"
+
+#: ../functions/meta/meta-slides.php:37
+msgid "Select a target for the URL."
+msgstr "Wähle ein Ziel für die URL aus."
+
+#: ../functions/widgets/widget-areas.php:11
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: ../functions/widgets/widget-areas.php:13
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr "Widgets in diesem Bereich werden in der Hauptseitenleiste verwendet."
+
+#: ../functions/widgets/widget-areas.php:25
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: ../functions/widgets/widget-areas.php:27
+#: ../functions/widgets/widget-areas.php:38
+#: ../functions/widgets/widget-areas.php:49
+msgid "Widgets in this area are used in the footer region."
+msgstr "Widgets in diesem Bereich werden im Footer genutzt."
+
+#: ../functions/widgets/widget-areas.php:36
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: ../functions/widgets/widget-areas.php:47
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: ../functions/widgets/widget-post-thumbs.php:12
+msgid "ATT - Featured Posts"
+msgstr "ATT – Hervorgehobene Beiträge"
+
+#: ../functions/widgets/widget-post-thumbs.php:65
+msgid "Featured Posts"
+msgstr "Hervorgehobene Beiträge"
+
+#: ../functions/widgets/widget-post-thumbs.php:75
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../functions/widgets/widget-post-thumbs.php:80
+msgid "Select a Category:"
+msgstr "Wähle eine Kategorie aus:"
+
+#: ../functions/widgets/widget-post-thumbs.php:83
+msgid "All"
+msgstr ""
+
+#: ../functions/widgets/widget-post-thumbs.php:94
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/widget-post-thumbs.php:98
+msgid "Offset (the number of posts to skip):"
+msgstr ""
